@@ -51,11 +51,13 @@
 💻 About
 </h2>
 
-Layout Template with Tailwind CSS is created to apply knowledge of [Tailwindcss](https://tailwindcss.com/) and Javascript. The Layout is responsive.
+The layout and application were created based on <a href="https://www.youtube.com/@Sujeitoprogramador">Sujeito Programador</a> classes available on YouTube:
+- **[Lesson 01](https://www.youtube.com/watch?v=rjXXDv23-6Y&t=146s&ab_channel=Sujeitoprogramador)**
+- **[Lesson 02](https://www.youtube.com/watch?v=FXm7Dfre60I&ab_channel=Sujeitoprogramador)**
 
 <h2 id="layout">🎨 Layout</h2>
 <p>
-    The layout was made from some inspirations in other dashboard templates available on the internet.
+    Public layout on <a href="https://www.figma.com/community/file/1347975029276307234">Figma</a>.
 </p>
 
 <p align="center">
@@ -78,7 +80,7 @@ The following tools were used in the construction of the project:
 **Utilities**
 
 
-- Alerts: **[Toastify](https://alpinejs.dev/)**
+- Alerts: **[Toastify](https://apvarun.github.io/toastify-js/)**
 - Icons: **[Fontawesome](https://fontawesome.com/)**
 
 <h2 id="prerequisites">💿 How to run the project</h2>
