@@ -90,7 +90,7 @@ The following tools were used in the construction of the project:
 **Utilities**
 
 
-- **[Toastify](https://alpinejs.dev/)**
+- Alerts: **[Toastify](https://alpinejs.dev/)**
 - Icons: **[Fontawesome](https://fontawesome.com/)**
 
 <h2 id="prerequisites">💿 How to run the project</h2>
