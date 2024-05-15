@@ -124,7 +124,7 @@ $ npm run dev
 ```
 
 <h2 id="demo">🧪 Demo</h2>
-<a href="[https://dashboard-tailwind-css.vercel.app](https://cardapiosj.vercel.app/)" target="_blank">
+<a href="https://cardapiosj.vercel.app" target="_blank">
 <!-- Link externo ou local(.github). -->
   <img src=".github/img/vercel_button.png">  
 </a>
