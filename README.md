@@ -59,23 +59,11 @@ Layout Template with Tailwind CSS is created to apply knowledge of [Tailwindcss]
 </p>
 
 <p align="center">
-  <img src=".github/img/desktop-light-1.png" alt="Layout Light">
+  <img src=".github/img/Desktop.png" alt="Layout Desktop">
 </p>
 
 <p align="center">
-  <img src=".github/img/desktop-dark-1.png" alt="Layout Light">
-</p>
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center; flex-direction: column; gap: 16px;">
-  <img src=".github/img/mobile-light-1.png" width="400px" alt="Desktop Layout">
-
-  <img src=".github/img/mobile-dark-1.png" width="400px" alt="Mobile Layout">
-</p>
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center; flex-direction: column; gap: 16px;">
-  <img src=".github/img/mobile-light-2.png" width="400px" alt="Desktop Layout">
-
-  <img src=".github/img/mobile-dark-2.png" width="400px" alt="Mobile Layout">
+  <img src=".github/img/Mobile.png" alt="Layout Mobile">
 </p>
 
 <br />
