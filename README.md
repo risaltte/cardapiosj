@@ -39,10 +39,6 @@
  <a href="#license">License</a>
 </p>
 
-<p align="center">
-  <img src=".github/img/desktop.png" alt="Layout">
-</p>
-
 <h4 align="center">
   	🚧 Menu with Tailwind CSS | Done 🚧
 </h4>
